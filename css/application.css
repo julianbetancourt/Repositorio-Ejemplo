@@ -39,7 +39,7 @@ li {
 
 /* Pseudo-classes ------------------ */
 a:link {
-  color: #ffa949;
+  color: #498CFF;
   text-decoration: none; }
 
 a:visited {
@@ -51,7 +51,7 @@ a:hover {
 .main-header {
   padding-top: 170px;
   height: 850px;
-  background: linear-gradient(#ffa949, transparent 90%), linear-gradient(0deg, #fff, transparent), #ffa949 url("../img/mountains.jpg") no-repeat center;
+  background: linear-gradient(#498CFF, transparent 90%), linear-gradient(0deg, #fff, transparent), #498CFF url("../img/mountains.jpg") no-repeat center;
   background-size: cover; }
   @media (max-width: 768px) {
     .main-header {
@@ -61,7 +61,7 @@ a:hover {
 .main-footer {
   padding-top: 60px;
   padding-bottom: 60px;
-  border-bottom: 10px solid #ffa949; }
+  border-bottom: 10px solid #498CFF; }
   @media (max-width: 768px) {
     .main-footer {
       padding: 20px 0; } }
@@ -79,7 +79,7 @@ a:hover {
   color: #fff;
   text-align: left;
   padding: 18% 24%;
-  border-top: 10px solid #ffa949;
+  border-top: 10px solid #498CFF;
   margin: 105px 0 60px;
   background: #48525c url("../img/bear.jpg") no-repeat center;
   background-size: cover;
